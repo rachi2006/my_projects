@@ -12,7 +12,9 @@
 
 <td width="50%" valign="top">
 
-<h3>🎯 SkillPath</h3>
+</p><h3 align="center">
+  ✨ 🎯 SKILLPATH ✨
+</h3>
 
 <p>
 <b>Personalized Developer Learning Platform</b>
@@ -56,7 +58,9 @@ Roadmap Generation • Progress Tracking
 
 <td width="50%" valign="top">
 
-<h3>🤖 AI Usage Dashboard</h3>
+</p><h3 align="center">
+  ✨  🤖 AI Usage Dashboard ✨
+</h3>
 
 <p>
 <b>Data Analytics & AI Insights</b>
@@ -100,7 +104,9 @@ KPI Development • Business Insights
 
 <td width="50%" valign="top">
 
-<h3>🧠 NOVA — AI Personal Agent</h3>
+</p><h3 align="center">
+  ✨  🧠 NOVA — AI Personal Agent ✨
+</h3>
 
 <p>
 <b>AI-Powered Personal Productivity Assistant</b>
@@ -141,7 +147,9 @@ Memory Systems • Task Management • Web Development
 
 <td width="50%" valign="top">
 
-<h3>🧬 DevMind</h3>
+</p><h3 align="center">
+  ✨ 🧬 DevMind ✨
+</h3>
 
 <p>
 <b>Developer Intelligence Platform</b>
