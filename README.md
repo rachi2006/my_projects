@@ -15,6 +15,7 @@
 </p><h3 align="center">
   ✨ 🎯 SKILLPATH ✨
 </h3>
+---
 
 <p>
 <b>Personalized Developer Learning Platform</b>
